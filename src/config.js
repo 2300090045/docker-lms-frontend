@@ -1,5 +1,5 @@
 const config=
 {
-    "url":"http://localhost:1999"
+    "url":"http://35.175.189.122:1999"
 }
 export default config
